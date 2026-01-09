@@ -1,4 +1,5 @@
 name: Generate 3D Metrics
+
 on:
   schedule:
     - cron: "0 0 * * *" # Runs every 24 hours
@@ -10,18 +11,39 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Output file
           filename: profile-3d-pink.svg
+
+          # Disable default sections
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          # Custom Pink & Yellow Palette
+
+          # Timezone
           config_timezone: Asia/Kolkata
-          # The line below forces the theme to match your profile colors
+
+          # Layout
           config_padding: 0, 8 + 11%
           config_display: columns
+
+          # -----------------------------
+          # 📊 3D / Contribution Calendar
+          # -----------------------------
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # -----------------------------
+          # 🎨 THEME (MATCHES YOUR README)
+          # -----------------------------
+          theme: custom
+          theme_background: "#1a1b26"
+          theme_foreground: "#e8df7a"
+          theme_accent: "#ff79c6"
