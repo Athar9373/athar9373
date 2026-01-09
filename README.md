@@ -1,26 +1,24 @@
 # 👋 Hello, I'm athar9373!
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athar9373&theme=tokyonight" alt="athar9373's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athar9373&theme=tokyonight" alt="athar9373's commit streak" />
 </p>
 
 ---
 
-## 📊 My Coding Journey
-> "Consistency is the key to mastery."
+## 📊 Contribution Highlights
+> "Building the future, one commit at a time."
 
-I am a passionate developer focused on building impactful projects and maintaining a steady workflow. Here is a snapshot of my recent activity:
-
-| Metric | Achievement |
+| Metric | Status |
 | :--- | :--- |
 | 🔥 **Best Streak** | 9 Days |
-| 🚀 **Highest Daily Output** | 65 Commits |
-| 📈 **Daily Average** | ~2.68 Commits |
+| 🚀 **Highest Activity (Day)** | 65 Commits |
+| 📈 **Average Output** | ~2.68 Commits/Day |
 
 ---
 
-## 🛠️ Tech Stack
-<p align="">
+## 🛠️ My Tech Stack
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -32,15 +30,13 @@ I am a passionate developer focused on building impactful projects and maintaini
 
 ## 📈 Activity Overview
 <p align="center">
-  <img src="./metrics.svg" width="100%" alt="Contribution Metrics Dashboard" />
+  <img src="https://raw.githubusercontent.com/athar9373/athar9373/main/github-metrics.svg" width="100%" alt="Detailed Contribution Dashboard" />
 </p>
 
 ---
 
-### 📫 Connect with me:
-<p align="">
-<a href="https://github.com/athar9373"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### 📫 Let's Connect:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/athar9373)
 <hr />
 
 ## 🛠️ Languages and Tools
