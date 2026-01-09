@@ -1,7 +1,7 @@
 # 👋 Hello, I'm athar9373!
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=athar9373&theme=tokyonight" alt="athar9373 streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=athar9373&theme=tokyonight" alt="athar9373 streak" />
 </p>
 
 ---
