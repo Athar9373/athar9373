@@ -9,10 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=athar9373&label=Profile%20views&color=0e75b6&style=flat" alt="athar9373" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=athar9373&theme=tokyonight" alt="athar9373 streak" />
-</p>
-
 ---
 
 ## 🐍 Snake Eating My Commits
@@ -24,8 +20,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athar9373&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athar9373&layout=donut&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=athar9373&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=athar9373&layout=donut&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -35,21 +31,26 @@
 ---
 
 ## 🛠️ Languages and Tools
-
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,ts,js,python,c,go,r" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,ts,js,python,c,html,css,react,nextjs,nodejs,express,mongodb,postgres,git,github,vscode,linux,docker" />
 </p>
 
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,redux,tailwind,bootstrap,figma" />
+## 🚀 Contribution Highlights
+> "Building the future, one commit at a time."
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=athar9373&theme=tokyonight" alt="athar9373 streak" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql,supabase" />
-</p>
+| Metric | Status |
+| :--- | :--- |
+| 🔥 **Best Streak** | 9 Days |
+| 🚀 **Highest Activity (Day)** | 65 Commits |
+| 📈 **Average Output** | ~2.68 Commits/Day |
 
+---
 
 ### 📫 Let's Connect:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/athar9373)
