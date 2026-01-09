@@ -1,0 +1,25 @@
+name: Generate 3D Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every 24 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # This color code #ff79c6 is your Pink
+          config_display: columns
+          config_timezone: Asia/Kolkata
+          output_action: commit
+          committer_branch: metrics-3d
+          filename: profile-3d-pink.svg
