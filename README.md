@@ -13,7 +13,7 @@
 <p align="center">
   <!-- Frontend -->
   <img
-    src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,redux,tailwind,bootstrap,d3"
+    src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,redux,tailwind,bootstrap,d3"
     alt="Frontend Technologies"
   />
 </p>
