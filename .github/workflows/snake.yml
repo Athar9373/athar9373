@@ -18,10 +18,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: athar9373
-          # Modified outputs to include your custom colors
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=yellow&color_dots=#f0f0f0,#ffc0cb,#ff69b4,#ff1493,#c71585
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=yellow&color_dots=#161b22,#ffc0cb,#ff69b4,#ff1493,#c71585
+            dist/github-contribution-grid-snake.svg?color_snake=#e8df7a&color_dots=#f0f0f0,#9b0054,#c9006c,#ff79c6,#ea4d95
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#e8df7a&color_dots=#161b22,#9b0054,#c9006c,#ff79c6,#ea4d95
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
