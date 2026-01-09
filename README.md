@@ -1,4 +1,13 @@
-# 👋 Hello, I'm athar9373!
+# 👋 Hello, I'm
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0E75B6&width=435&lines=athar9373;Voice+King;A+Passionate+Developer" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=athar9373&label=Profile%20views&color=0e75b6&style=flat" alt="athar9373" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=athar9373&theme=tokyonight" alt="athar9373 streak" />
@@ -6,71 +15,43 @@
 
 ---
 
-## 📊 Contribution Highlights
-> "Building the future, one commit at a time."
-
-| Metric | Status |
-| :--- | :--- |
-| 🔥 **Best Streak** | 9 Days |
-| 🚀 **Highest Activity (Day)** | 65 Commits |
-| 📈 **Average Output** | ~2.68 Commits/Day |
-
----
-
-## 🛠️ My Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📈 Activity Overview
+## 🐍 Snake Eating My Commits
 <p align="center">
-  <img src="github-metrics.svg" width="100%" alt="Detailed Contribution Dashboard" />
+  <img src="https://raw.githubusercontent.com/athar9373/athar9373/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-### 📫 Let's Connect:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/athar9373)
-<hr />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athar9373&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athar9373&layout=donut&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athar9373&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+---
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
-  <!-- Languages & Core Tech -->
-  <img
-    src="https://skillicons.dev/icons?i=java,cpp,ts,js,python,c,go,r"
-    alt="Programming Languages"
-  />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,ts,js,python,c,go,r" />
 </p>
 
-<p align="center">
-  <!-- Frontend -->
-  <img
-    src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,redux,tailwind,bootstrap,d3"
-    alt="Frontend Technologies"
-  />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,redux,tailwind,bootstrap,figma" />
 </p>
 
-<p align="center">
-  <!-- Backend & Databases -->
-  <img
-    src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql,supabase"
-    alt="Backend and Databases"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql,supabase" />
 </p>
 
-<p align="center">
-  <!-- Tools & Platforms -->
-  <img
-    src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,figma,linux,sklearn,docker,kubernetes"
-    alt="Tools and Platforms"
-  />
-</p>
 
-<hr />
+### 📫 Let's Connect:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/athar9373)
+
+<img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/assets/line.gif" width="100%" height="20">
