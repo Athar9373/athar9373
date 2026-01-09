@@ -1,7 +1,7 @@
 # 👋 Hello, I'm athar9373!
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athar9373&theme=tokyonight" alt="athar9373's commit streak" />
+  <img src="https://streak-stats.demolab.com/?user=athar9373&theme=tokyonight" alt="athar9373 streak" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 ## 📈 Activity Overview
 <p align="center">
-  <img src="https://raw.githubusercontent.com/athar9373/athar9373/main/github-metrics.svg" width="100%" alt="Detailed Contribution Dashboard" />
+  <img src="github-metrics.svg" width="100%" alt="Detailed Contribution Dashboard" />
 </p>
 
 ---
