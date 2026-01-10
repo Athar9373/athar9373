@@ -79,8 +79,9 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=athar9373&bg_color=1a1b26&color=e8df7a&line=ff79c6&point=ff79c6&hide_border=true&area=true"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=athar9373&bg_color=1a1b26&color=e8df7a&line=ff79c6&point=e8df7a&hide_border=true&area=true&area_color=ff79c6"
         width="915" 
+        alt="Athar's Contribution Graph"
       />
     </td>
   </tr>
