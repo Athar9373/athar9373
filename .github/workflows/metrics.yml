@@ -14,18 +14,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: athar9373
           template: classic
-          base: ""
+          base: "" # Important: This removes the header/avatar/text
           config_timezone: Asia/Kolkata
           
-          # Radar Chart Configuration
+          # Radar Chart (Spider Graph) Configuration
           plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: no       # Disables the text facts
           plugin_habits_charts: yes
           plugin_habits_charts_type: radar
           
-          # Isometric Calendar (Keeping this as you had it)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-          # Pink and Yellow Theme Customization
+          # Theme Colors (Pink #ff79c6 & Yellow #e8df7a)
           queries_color_theme: custom
           colors: "primary:#ff79c6, secondary:#e8df7a"
