@@ -1,0 +1,42 @@
+name: GitHub-Profile-3D-Contrib
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          github_user_name: athar9373
+          # Using the Pink & Yellow settings from the JSON you provided
+          config_json: |
+            {
+              "type": "normal",
+              "fileName": "profile-green-dual.svg",
+              "backgroundColor": "rgba(0,0,0,0)",
+              "foregroundColor": "#ff79c6",
+              "strongColor": "#ff79c6",
+              "weakColor": "#ff79c6",
+              "radarColor": "#e8df7a",
+              "growingAnimation": true,
+              "contribColors": [
+                "#444444",
+                "#f3b1d6",
+                "#ff95d1",
+                "#ff79c6",
+                "#ff24a0"
+              ]
+            }
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "Generated 3D Profile Contrib"
+          git push
