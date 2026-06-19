@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF79C6&center=true&vCenter=true&width=750&height=50&lines=Aspiring+Full+Stack+Developer;ML+%26+Data+Science+Enthusiast;2nd+Year+BCA+Student;Open+for+Internship+%2F+Opportunities"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF79C6&center=true&vCenter=true&width=750&height=50&lines=Aspiring+Full+Stack+Developer;ML+%26+Data+Science+Enthusiast;3rd+Year+BCA+Student;Open+for+Internship+%2F+Opportunities"
       alt="Typing SVG"
     />
   </a>
@@ -39,7 +39,7 @@
   <span style="color:#e8df7a;">"education"</span>: <span style="color:#ff79c6;">{</span>
     <span style="color:#e8df7a;">"college"</span>: <span style="color:#ffffff;">"MIT ACSC"</span>,
     <span style="color:#e8df7a;">"degree"</span>: <span style="color:#ffffff;">"BCA"</span>,
-    <span style="color:#e8df7a;">"year"</span>: <span style="color:#ffffff;">"2nd Year"</span>
+    <span style="color:#e8df7a;">"year"</span>: <span style="color:#ffffff;">"3rd Year"</span>
   <span style="color:#ff79c6;">}</span>,
   <span style="color:#e8df7a;">"interests"</span>: <span style="color:#ff79c6;">[</span>
     <span style="color:#ffffff;">"Web Development"</span>,
