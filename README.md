@@ -119,7 +119,7 @@
 ## 📫 Let's Connect:
 
 <p align="center">
-  <a href="https://github.com/athar9373"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/athar-shaikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;<a href="REPLACE_WITH_YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-E8DF7A?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>&nbsp;&nbsp;<a href="mailto:atharshaikh7385@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://x.com/Athahar_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://github.com/athar9373"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/athar-shaikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;<a href="[REPLACE_WITH_YOUR_PORTFOLIO_URL](https://athar-shaikh-portfolio1.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-E8DF7A?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>&nbsp;&nbsp;<a href="mailto:atharshaikh7385@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;<a href="https://x.com/Athahar_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 
