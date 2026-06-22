@@ -1,5 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&color=FFFFFF&center=true&vCenter=true&width=315&height=50&lines=Hi+there%2C+I+am&repeat=false&duration=2000" alt="Hi there" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&color=E8DF7A&center=true&vCenter=true&width=280&height=50&lines=Athar+Shaikh&repeat=false&duration=2000" alt="Athar Shaikh" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&color=E8DF7A&center=true&vCenter=true&width=650&height=50&lines=Hi+there%2C+I+am+Athar+Shaikh&repeat=false&duration=2000"
+    alt="Hi there, I am Athar Shaikh"
+  />
 </h1>
 
 
@@ -8,7 +11,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF79C6&center=true&vCenter=true&width=750&height=50&lines=Aspiring+Full+Stack+Developer;ML+%26+Data+Science+Enthusiast;3rd+Year+BCA+Student;Open+for+Internship+%2F+Opportunities"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF79C6&center=true&vCenter=true&width=750&height=50&lines=Aspiring+Full+Stack+Developer;ML+%26+Data+Science+Enthusiast;3rd+Year+Student;Open+for+Internship+%2F+Opportunities"
       alt="Typing SVG"
     />
   </a>
@@ -119,25 +122,11 @@
 ## 📫 Let's Connect:
 
 <p align="center">
-  <a href="https://github.com/athar9373">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/athar-shaikh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://athar-shaikh-portfolio1.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-E8DF7A?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="mailto:atharshaikh7385@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-
-  <a href="https://x.com/Athahar_">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+  <a href="https://github.com/athar9373"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/athar-shaikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://athar-shaikh-portfolio1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E8DF7A?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
+  <a href="mailto:atharshaikh7385@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://x.com/Athahar_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 
