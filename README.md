@@ -1,20 +1,13 @@
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&color=E8DF7A&center=true&vCenter=true&width=650&height=50&lines=Hi+there%2C+I+am+Athar+Shaikh&repeat=false&duration=2000"
-    alt="Hi there, I am Athar Shaikh"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&duration=1&pause=999999&repeat=false&color=FFF176&center=false&vCenter=true&width=460&height=50&lines=Hello+Fellow+%3CCoders+%2F%3E!" alt="Hello Fellow <Coders />!" align="middle" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand" align="middle" />
 </h1>
 
 
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF79C6&center=true&vCenter=true&width=750&height=50&lines=Aspiring+Full+Stack+Developer;ML+%26+Data+Science+Enthusiast;3rd+Year+Student;Open+for+Internship+%2F+Opportunities"
-      alt="Typing SVG"
-    />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=FF77B7&size=34&height=48&width=1000&lines=Heyyy!+I'm+Athar+Shaikh+%3C3;Welcome+to+my+Profile!+%F0%9F%92%96;Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;BCA+Student+%F0%9F%8E%93;Data+Science+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG Banner" />
 </p>
 
 <p align="center">
@@ -119,15 +112,28 @@
 
 ---
 
+
+
 ## 📫 Let's Connect:
+<p align="center">
+  <i>✨ Always open to interesting conversations, collaborations, or just a good chat!</i>
+</p>
 
 <p align="center">
   <a href="https://github.com/athar9373"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  &nbsp;
   <a href="https://linkedin.com/in/athar-shaikh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
   <a href="https://athar-shaikh-portfolio1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-E8DF7A?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
-  <a href="mailto:atharshaikh7385@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://x.com/Athahar_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  &nbsp;
+  <a href="https://www.instagram.com/athahar_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  &nbsp;
+  <a href="https://x.com/Athahar_"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
 </p>
 
+---
 
-
+## 💭 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
