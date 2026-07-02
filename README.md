@@ -12,9 +12,9 @@
 
 <p align="center">
   <img 
-    src="https://img.shields.io/github/last-commit/athar9373/athar9373?style=for-the-badge&labelColor=000000&color=D4AF37&logo=github&logoColor=white" 
-    alt="Last Commit"
-  />
+  src="https://img.shields.io/github/last-commit/Athar9373/athar9373?style=for-the-badge&labelColor=000000&color=D4AF37&logo=github&logoColor=white"
+  alt="Last Commit"
+/>
   <img 
     src="https://komarev.com/ghpvc/?username=athar9373&label=VISITORS&label_color=000000&color=ff79c6&style=for-the-badge" 
     alt="Profile Visitors"
@@ -58,14 +58,16 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=athar9373&show_icons=true&title_color=ff79c6&icon_color=ff79c6&text_color=e8df7a&bg_color=1a1b26&hide_border=true&count_private=true"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=athar9373&show_icons=true&title_color=FF77B7&icon_color=FF77B7&text_color=E8DF7A&bg_color=00000000&hide_border=true&count_private=true"
         width="450"
+        alt="GitHub Stats"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=athar9373&theme=tokyonight&currStreakNum=ff79c6&sideNums=e8df7a&fire=e8df7a&sideLabels=ffffff&dates=ff79c6&hide_border=true"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=athar9373&theme=transparent&currStreakNum=FF77B7&sideNums=E8DF7A&fire=E8DF7A&sideLabels=FFFFFF&dates=FF77B7&hide_border=true"
         width="450"
+        alt="GitHub Streak"
       />
     </td>
   </tr>
@@ -75,8 +77,8 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=athar9373&bg_color=1a1b26&color=e8df7a&line=ff79c6&point=e8df7a&hide_border=true&area=true&area_color=ff79c6"
-        width="915" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=athar9373&bg_color=transparent&color=E8DF7A&line=FF77B7&point=E8DF7A&area=true&area_color=FF77B7&hide_border=true"
+        width="915"
         alt="Athar's Contribution Graph"
       />
     </td>
@@ -102,11 +104,12 @@
 
 ---
 <h2 align="left">🐍 Contribution Snake Grid</h2>
+
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/athar9373/athar9373/output/github-contribution-grid-snake.svg" 
-    alt="GitHub Contributions Snake Animation" 
-    width="100%" 
+  <img
+    src="https://raw.githubusercontent.com/athar9373/athar9373/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
   />
 </p>
 
