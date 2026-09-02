@@ -43,8 +43,8 @@
     <span style="color:#ffffff;">"Data Science"</span>
   <span style="color:#ff79c6;">]</span>,
   <span style="color:#e8df7a;">"currently_learning"</span>: <span style="color:#ff79c6;">[</span>
-    <span style="color:#ffffff;">"Advanced Front-end"</span>,
-    <span style="color:#ffffff;">"Vibe Coding"</span>,
+    <span style="color:#ffffff;">"Advanced Front-end(GSAP)"</span>,
+    <span style="color:#ffffff;">"Context Engineering"</span>,
     <span style="color:#ffffff;">"TensorFlow"</span>
   <span style="color:#ff79c6;">]</span>,
   <span style="color:#e8df7a;">"goal"</span>: <span style="color:#ffffff;">"Build scalable real-world applications"</span>
@@ -72,19 +72,6 @@
     </td>
   </tr>
 </table>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=athar9373&bg_color=transparent&color=E8DF7A&line=FF77B7&point=E8DF7A&area=true&area_color=FF77B7&hide_border=true"
-        width="915"
-        alt="Athar's Contribution Graph"
-      />
-    </td>
-  </tr>
-</table>
----
 
 ## 🛠️ Languages and Tools
 
